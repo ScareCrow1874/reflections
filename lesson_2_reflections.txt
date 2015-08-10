@@ -1,0 +1,4 @@
+1. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: It offers a middle ground so that one can commit multiple files at once.
+
+2. 
